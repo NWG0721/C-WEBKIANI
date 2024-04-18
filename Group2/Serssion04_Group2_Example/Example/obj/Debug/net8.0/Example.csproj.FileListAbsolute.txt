@@ -1,0 +1,14 @@
+E:\CsWebKiani\Serssion04_Group2_Example\Example\bin\Debug\net8.0\Example.exe
+E:\CsWebKiani\Serssion04_Group2_Example\Example\bin\Debug\net8.0\Example.deps.json
+E:\CsWebKiani\Serssion04_Group2_Example\Example\bin\Debug\net8.0\Example.runtimeconfig.json
+E:\CsWebKiani\Serssion04_Group2_Example\Example\bin\Debug\net8.0\Example.dll
+E:\CsWebKiani\Serssion04_Group2_Example\Example\bin\Debug\net8.0\Example.pdb
+E:\CsWebKiani\Serssion04_Group2_Example\Example\obj\Debug\net8.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+E:\CsWebKiani\Serssion04_Group2_Example\Example\obj\Debug\net8.0\Example.AssemblyInfoInputs.cache
+E:\CsWebKiani\Serssion04_Group2_Example\Example\obj\Debug\net8.0\Example.AssemblyInfo.cs
+E:\CsWebKiani\Serssion04_Group2_Example\Example\obj\Debug\net8.0\Example.csproj.CoreCompileInputs.cache
+E:\CsWebKiani\Serssion04_Group2_Example\Example\obj\Debug\net8.0\Example.dll
+E:\CsWebKiani\Serssion04_Group2_Example\Example\obj\Debug\net8.0\refint\Example.dll
+E:\CsWebKiani\Serssion04_Group2_Example\Example\obj\Debug\net8.0\Example.pdb
+E:\CsWebKiani\Serssion04_Group2_Example\Example\obj\Debug\net8.0\Example.genruntimeconfig.cache
+E:\CsWebKiani\Serssion04_Group2_Example\Example\obj\Debug\net8.0\ref\Example.dll

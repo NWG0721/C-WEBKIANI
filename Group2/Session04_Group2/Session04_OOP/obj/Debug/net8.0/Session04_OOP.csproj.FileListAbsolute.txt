@@ -1,0 +1,14 @@
+E:\CsWebKiani\Session04_Group2\Session04_OOP\bin\Debug\net8.0\Session04_OOP.exe
+E:\CsWebKiani\Session04_Group2\Session04_OOP\bin\Debug\net8.0\Session04_OOP.deps.json
+E:\CsWebKiani\Session04_Group2\Session04_OOP\bin\Debug\net8.0\Session04_OOP.runtimeconfig.json
+E:\CsWebKiani\Session04_Group2\Session04_OOP\bin\Debug\net8.0\Session04_OOP.dll
+E:\CsWebKiani\Session04_Group2\Session04_OOP\bin\Debug\net8.0\Session04_OOP.pdb
+E:\CsWebKiani\Session04_Group2\Session04_OOP\obj\Debug\net8.0\Session04_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\CsWebKiani\Session04_Group2\Session04_OOP\obj\Debug\net8.0\Session04_OOP.AssemblyInfoInputs.cache
+E:\CsWebKiani\Session04_Group2\Session04_OOP\obj\Debug\net8.0\Session04_OOP.AssemblyInfo.cs
+E:\CsWebKiani\Session04_Group2\Session04_OOP\obj\Debug\net8.0\Session04_OOP.csproj.CoreCompileInputs.cache
+E:\CsWebKiani\Session04_Group2\Session04_OOP\obj\Debug\net8.0\Session04_OOP.dll
+E:\CsWebKiani\Session04_Group2\Session04_OOP\obj\Debug\net8.0\refint\Session04_OOP.dll
+E:\CsWebKiani\Session04_Group2\Session04_OOP\obj\Debug\net8.0\Session04_OOP.pdb
+E:\CsWebKiani\Session04_Group2\Session04_OOP\obj\Debug\net8.0\Session04_OOP.genruntimeconfig.cache
+E:\CsWebKiani\Session04_Group2\Session04_OOP\obj\Debug\net8.0\ref\Session04_OOP.dll

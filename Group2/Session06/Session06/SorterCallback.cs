@@ -1,0 +1,1 @@
+  public  delegate void SortCallback(int[] data);

@@ -1,0 +1,14 @@
+E:\CsWebKiani\Session2_Group1\bin\Debug\net8.0\Session2_Group1.exe
+E:\CsWebKiani\Session2_Group1\bin\Debug\net8.0\Session2_Group1.deps.json
+E:\CsWebKiani\Session2_Group1\bin\Debug\net8.0\Session2_Group1.runtimeconfig.json
+E:\CsWebKiani\Session2_Group1\bin\Debug\net8.0\Session2_Group1.dll
+E:\CsWebKiani\Session2_Group1\bin\Debug\net8.0\Session2_Group1.pdb
+E:\CsWebKiani\Session2_Group1\obj\Debug\net8.0\Session2_Group1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CsWebKiani\Session2_Group1\obj\Debug\net8.0\Session2_Group1.AssemblyInfoInputs.cache
+E:\CsWebKiani\Session2_Group1\obj\Debug\net8.0\Session2_Group1.AssemblyInfo.cs
+E:\CsWebKiani\Session2_Group1\obj\Debug\net8.0\Session2_Group1.csproj.CoreCompileInputs.cache
+E:\CsWebKiani\Session2_Group1\obj\Debug\net8.0\Session2_Group1.dll
+E:\CsWebKiani\Session2_Group1\obj\Debug\net8.0\refint\Session2_Group1.dll
+E:\CsWebKiani\Session2_Group1\obj\Debug\net8.0\Session2_Group1.pdb
+E:\CsWebKiani\Session2_Group1\obj\Debug\net8.0\Session2_Group1.genruntimeconfig.cache
+E:\CsWebKiani\Session2_Group1\obj\Debug\net8.0\ref\Session2_Group1.dll

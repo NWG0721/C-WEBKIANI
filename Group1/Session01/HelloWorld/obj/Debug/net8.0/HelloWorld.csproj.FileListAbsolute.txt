@@ -1,0 +1,14 @@
+E:\CsWebKiani\Session01\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+E:\CsWebKiani\Session01\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+E:\CsWebKiani\Session01\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+E:\CsWebKiani\Session01\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+E:\CsWebKiani\Session01\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+E:\CsWebKiani\Session01\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\CsWebKiani\Session01\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+E:\CsWebKiani\Session01\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+E:\CsWebKiani\Session01\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\CsWebKiani\Session01\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+E:\CsWebKiani\Session01\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+E:\CsWebKiani\Session01\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+E:\CsWebKiani\Session01\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+E:\CsWebKiani\Session01\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

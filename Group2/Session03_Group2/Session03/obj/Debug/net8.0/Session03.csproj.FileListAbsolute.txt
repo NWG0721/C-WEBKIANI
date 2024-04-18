@@ -1,0 +1,14 @@
+E:\CsWebKiani\Session03_Group2\Session03\bin\Debug\net8.0\Session03.exe
+E:\CsWebKiani\Session03_Group2\Session03\bin\Debug\net8.0\Session03.deps.json
+E:\CsWebKiani\Session03_Group2\Session03\bin\Debug\net8.0\Session03.runtimeconfig.json
+E:\CsWebKiani\Session03_Group2\Session03\bin\Debug\net8.0\Session03.dll
+E:\CsWebKiani\Session03_Group2\Session03\bin\Debug\net8.0\Session03.pdb
+E:\CsWebKiani\Session03_Group2\Session03\obj\Debug\net8.0\Session03.GeneratedMSBuildEditorConfig.editorconfig
+E:\CsWebKiani\Session03_Group2\Session03\obj\Debug\net8.0\Session03.AssemblyInfoInputs.cache
+E:\CsWebKiani\Session03_Group2\Session03\obj\Debug\net8.0\Session03.AssemblyInfo.cs
+E:\CsWebKiani\Session03_Group2\Session03\obj\Debug\net8.0\Session03.csproj.CoreCompileInputs.cache
+E:\CsWebKiani\Session03_Group2\Session03\obj\Debug\net8.0\Session03.dll
+E:\CsWebKiani\Session03_Group2\Session03\obj\Debug\net8.0\refint\Session03.dll
+E:\CsWebKiani\Session03_Group2\Session03\obj\Debug\net8.0\Session03.pdb
+E:\CsWebKiani\Session03_Group2\Session03\obj\Debug\net8.0\Session03.genruntimeconfig.cache
+E:\CsWebKiani\Session03_Group2\Session03\obj\Debug\net8.0\ref\Session03.dll
